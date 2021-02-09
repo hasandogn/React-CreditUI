@@ -1,0 +1,19 @@
+.FooterItems {
+  background: linear-gradient(
+    90deg,
+    rgb(100, 100, 100) 0%,
+    rgba(27, 27, 27) 100%
+  );
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.navbar-logo {
+  color: #fff;
+  justify-self: start;
+  margin-left: 20px;
+  cursor: pointer;
+}

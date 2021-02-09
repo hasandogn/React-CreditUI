@@ -1,7 +1,8 @@
-.App {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: 'Montserrat', sans-serif;
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
-
+.content-wrap {
+  flex: 1;
+}
